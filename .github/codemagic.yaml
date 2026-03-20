@@ -1,0 +1,15 @@
+workflows:
+  build-android:
+    name: Build Zenith APK
+    environment:
+      sdk: android
+      java: 17
+    scripts:
+      - name: Instalar dependências
+        script: npm install
+      - name: Sincronizar Capacitor
+        script: npx cap sync android
+      - name: Compilar APK Debug
+        script: cd android && ./gradlew assembleDebug
+    artifacts:
+      - android/app/build/outputs/apk/debug/*.apk
