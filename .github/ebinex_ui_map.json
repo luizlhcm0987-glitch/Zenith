@@ -1,0 +1,192 @@
+[
+  {
+    "tag": "DIV",
+    "id": "root",
+    "class": "",
+    "text": "3\n\nConta Demo\n\n$ 21,",
+    "x": 0,
+    "y": 0,
+    "width": 1173,
+    "height": 959
+  },
+  {
+    "tag": "A",
+    "id": "",
+    "class": "",
+    "text": "",
+    "x": 16,
+    "y": 18.5,
+    "width": 28.390625,
+    "height": 26
+  },
+  {
+    "tag": "BUTTON",
+    "id": "",
+    "class": "MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1qhlo2m",
+    "text": "",
+    "x": 816.1875,
+    "y": 13.640625,
+    "width": 35.703125,
+    "height": 35.703125
+  },
+  {
+    "tag": "BUTTON",
+    "id": "",
+    "class": "MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1pq1v9p",
+    "text": "",
+    "x": 867.890625,
+    "y": 13.5,
+    "width": 36,
+    "height": 36
+  },
+  {
+    "tag": "BUTTON",
+    "id": "demo-customized-button",
+    "class": "MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary account-selection-section css-1ircez5",
+    "text": "Conta Demo\n\n$ 21,498",
+    "x": 919.890625,
+    "y": 3.5,
+    "width": 91.109375,
+    "height": 56
+  },
+  {
+    "tag": "A",
+    "id": "",
+    "class": "MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-colorPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-colorPrimary css-4p3iny",
+    "text": "",
+    "x": 1027,
+    "y": 10.5,
+    "width": 64,
+    "height": 42
+  },
+  {
+    "tag": "BUTTON",
+    "id": "",
+    "class": "MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeSmall css-1kl3qa3",
+    "text": "",
+    "x": 1107,
+    "y": 6.5,
+    "width": 50,
+    "height": 50
+  },
+  {
+    "tag": "BUTTON",
+    "id": "",
+    "class": "MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary css-1us4kct",
+    "text": "IDX/USDT\n\nCrypto",
+    "x": 4,
+    "y": 68,
+    "width": 159.046875,
+    "height": 52
+  },
+  {
+    "tag": "BUTTON",
+    "id": "",
+    "class": "MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary css-ulk2fu",
+    "text": "BTC/USDT\n\nCrypto",
+    "x": 179.046875,
+    "y": 68,
+    "width": 165.1875,
+    "height": 52
+  },
+  {
+    "tag": "BUTTON",
+    "id": "",
+    "class": "MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary css-o0mbay",
+    "text": "",
+    "x": 354.234375,
+    "y": 74,
+    "width": 40,
+    "height": 40
+  },
+  {
+    "tag": "IFRAME",
+    "id": "tradingview_7a3da",
+    "class": "",
+    "text": "",
+    "x": 0,
+    "y": 124,
+    "width": 1173,
+    "height": 603.65625
+  },
+  {
+    "tag": "BUTTON",
+    "id": "",
+    "class": "MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary MuiStack-root css-anypki",
+    "text": "M1",
+    "x": 1093,
+    "y": 731.15625,
+    "width": 64,
+    "height": 33
+  },
+  {
+    "tag": "LABEL",
+    "id": ":ra:-label",
+    "class": "MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-sizeSmall MuiInputLabel-outlined MuiFormLabel-colorPrimary MuiFormLabel-filled MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-sizeSmall MuiInputLabel-outlined css-1cpo5g4",
+    "text": "Valor (U$)",
+    "x": 30,
+    "y": 791.09375,
+    "width": 43.34765625,
+    "height": 12.9375
+  },
+  {
+    "tag": "BUTTON",
+    "id": "",
+    "class": "MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-l73gb4",
+    "text": "",
+    "x": 24,
+    "y": 806.65625,
+    "width": 24,
+    "height": 24
+  },
+  {
+    "tag": "INPUT",
+    "id": ":ra:",
+    "class": "MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSizeSmall MuiInputBase-inputAdornedStart MuiInputBase-inputAdornedEnd css-qzvees",
+    "text": "",
+    "x": 56,
+    "y": 800.09375,
+    "width": 1061,
+    "height": 37.125
+  },
+  {
+    "tag": "BUTTON",
+    "id": "",
+    "class": "MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-l73gb4",
+    "text": "",
+    "x": 1125,
+    "y": 806.65625,
+    "width": 24,
+    "height": 24
+  },
+  {
+    "tag": "BUTTON",
+    "id": "button-bull",
+    "class": "MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary css-1dc5i3j",
+    "text": "COMPRAR",
+    "x": 16,
+    "y": 910,
+    "width": 562.5,
+    "height": 41
+  },
+  {
+    "tag": "BUTTON",
+    "id": "button-bear",
+    "class": "MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary css-4x1cqt",
+    "text": "VENDER",
+    "x": 594.5,
+    "y": 910,
+    "width": 562.5,
+    "height": 41
+  },
+  {
+    "tag": "DIV",
+    "id": "dnd-kit-announcement-3",
+    "class": "",
+    "text": "",
+    "x": -1,
+    "y": 958,
+    "width": 1,
+    "height": 1
+  }
+]
